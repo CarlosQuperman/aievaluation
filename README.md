@@ -11,6 +11,11 @@
 https://colab.research.google.com/drive/1vMpVyqngaqUcOMB5NxHOBCYAI-2q77wb#scrollTo=nKw3FKAViQQr(완성본)
 - 데이터 공정성 지표 판단 및 처리를 위한 라이브러리 AIF360 저장소 : https://github.com/Trusted-AI/AIF360
 
+* 합성 데이터 정의 및 생성 가이드라인 참고 자료
+
+- 가명정보 지원 플랫폼 합성 데이터 정의 : https://dataprivacy.go.kr/mergeData/mergeDataInfo.do
+- AWS 합성 데이터 설명 페이지 : https://aws.amazon.com/ko/what-is/synthetic-data/ 
+
 
 * 수행평가 학생 활동 내용 정리를 위한 포트폴리오(Github 저장소 내에 파일로도 첨부)
 - 
