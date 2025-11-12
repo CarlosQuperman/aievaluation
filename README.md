@@ -8,7 +8,7 @@
 
 * 데이터 수집 및 윤리적 데이터를 위해 활용할 수 있는 프로그래밍 라이브러리(Python)
 - 이미지 데이터 수집 과정에서 활용할 수 있는 Python Colab Notebook (모델 제작도 포함, GitHub 저장소 내에 파일로도 첨부) : https://colab.research.google.com/drive/17jW85bW1r07FPkBnVGm6z41YmCouPi6H (학생제시용)
-https://colab.research.google.com/drive/1vMpVyqngaqUcOMB5NxHOBCYAI-2q77wb#scrollTo=nKw3FKAViQQr(완성본)
+https://colab.research.google.com/drive/1vMpVyqngaqUcOMB5NxHOBCYAI-2q77wb#scrollTo=nKw3FKAViQQr (완성본)
 - 데이터 공정성 지표 판단 및 처리를 위한 라이브러리 AIF360 저장소 : https://github.com/Trusted-AI/AIF360
 
 * 합성 데이터 정의 및 생성 가이드라인 참고 자료
