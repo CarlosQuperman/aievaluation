@@ -21,5 +21,6 @@ https://colab.research.google.com/drive/1vMpVyqngaqUcOMB5NxHOBCYAI-2q77wb#scroll
 - 
   
 * 합성 데이터 제작을 위한 프롬프트 활용 및 합성 데이터 제작 예시
-- 롯데리아 햄버거 이미지 분류를 위한 이미지 제작(구글 제미나이) : 
+- 롯데리아 햄버거 이미지 분류를 위한 이미지 제작(구글 제미나이) : https://github.com/CarlosQuperman/aievaluation/blob/main/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4%20%ED%95%A9%EC%84%B1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%83%9D%EC%84%B1(%EC%9D%B4%EB%AF%B8%EC%A7%80).mhtml
+(다운로드 후 브라우저에서 열기)
 - 논문 데이터를 바탕으로 한 파이썬 시각화 제작 사례(ChatGPT) :  https://chatgpt.com/share/5f69b21a-58cf-4be6-8c9e-8f1c4613da2c
